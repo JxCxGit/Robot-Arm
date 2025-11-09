@@ -9,8 +9,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "JxCNet.gen";
-const char *password = "Router002";
+const char *ssid = "xxxxxxx";
+const char *password = "xxxxxxx";
 
 void startCameraServer();
 void setupLedFlash();
